@@ -1,9 +1,10 @@
 {
     "name": "tawaffan/nova-map-marker-field",
-    "description": "A Laravel Nova field.",
+    "description": "Laravel nova map marker field.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "map"
     ],
     "license": "MIT",
     "require": {
